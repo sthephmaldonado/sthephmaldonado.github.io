@@ -1,5 +1,7 @@
 # Welcome to my Github Website! 
 
-## Progress on my Creative Project 1
+On this website I will show you my progress and excercises done on my computational media class!
 
- -[Go to the other file](other.md)
+## -[Here to see excercise 1](other.md)
+ 
+## -[Progress on my Creative Project 1](project.md)
